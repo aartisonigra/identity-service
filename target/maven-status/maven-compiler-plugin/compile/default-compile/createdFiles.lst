@@ -1,0 +1,7 @@
+com\company\identityservice\model\User.class
+com\company\identityservice\config\SecurityConfig.class
+com\company\identityservice\service\JwtService.class
+com\company\identityservice\service\RegisterService.class
+com\company\identityservice\dto\RegisterRequest.class
+com\company\identityservice\IdentityserviceApplication.class
+com\company\identityservice\repository\UserRepository.class
